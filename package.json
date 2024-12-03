@@ -1,6 +1,6 @@
 {
-  "name": "bing-bing-preview",
-  "version": "0.0.5",
+  "name": "by-preview",
+  "version": "0.0.1",
   "description": "一个用来预览各种文件的工具",
   "bin": "dist/main.js",
   "files": [
